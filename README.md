@@ -31,13 +31,17 @@
     <h3 align="center">Project Title: Traffic Voilaton Detection using CCTV cameras</h3>
     <br />
     <br />
-    <h3 align="center">Project Title: Traffic Voilaton Detection using CCTV cameras</h3>
+    <h3 align="center">DONE BY</h3>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+  <!--
+    <a href="PROFILE URL">CHETHAN S</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="PROFILE URL">PRAJWAL K</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="PROFILE URL">NEHAL CHAKRAVARTY</a>
+    .
+    <a href="PROFILE URL">SHIVARAJ BK</a>
+   -->
   </p>
 </div>
 
