@@ -28,9 +28,9 @@
   <h2 align="center">Innovation Grant Program</h2>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    The program invites highly motivated and talented faculty members, along with their under-graduate and post-graduate students, to apply for research projects in the areas of Artificial Intelligence, Robotics and Autonomous Systems
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://www.artpark.in/innoProgramme"><strong>Know More About the Program »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
