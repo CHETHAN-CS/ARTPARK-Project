@@ -1,10 +1,6 @@
 <div id="top"></div>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+
 -->
 
 
@@ -32,6 +28,10 @@
     <br />
     <a href="https://www.artpark.in/innoProgramme"><strong>Know More About the Program »</strong></a>
     <br />
+    <h3 align="center">Project Title: Traffic Voilaton Detection using CCTV cameras</h3>
+    <br />
+    <br />
+    <h3 align="center">Project Title: Traffic Voilaton Detection using CCTV cameras</h3>
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
