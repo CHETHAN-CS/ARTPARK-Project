@@ -21,8 +21,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/artparklogo.png" alt="Logo" width="80" height="80">
+  <a href="https://www.artpark.in/">
+    <img src="images/artparklogo.png" alt="Logo" width="160" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
