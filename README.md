@@ -32,8 +32,8 @@
     <br />
     <h3 align="center">DONE BY</h3>
     <br />
-    <h4>CHETHAN S &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRAJWAL K &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEHAL CHAKRAVARTY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHIVARAJ B KAREGERA <h4>
-    <h5>RV College of Engineering &nbsp;&nbsp;&nbsp;RV College of Engineering &nbsp;&nbsp;&nbsp;RV College of Engineering &nbsp;&nbsp;&nbsp;RV College of Engineering <h5>
+    <h4>CHETHAN S &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRAJWAL K &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEHAL CHAKRAVARTY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHIVARAJ B KAREGERA <h4>
+    <h5>RV College of Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RV College of Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RV College of Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RV College of Engineering <h5>
   <!--
     <a href="PROFILE URL">CHETHAN S</a>
     ·
