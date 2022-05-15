@@ -36,7 +36,7 @@
     <br />
     <h3 align="center">Under the Guidence Of</h3>
     <h4> Dr. Ramakanth Kumar <h4>
-    <h5> HOD, Dept. of CSE, RVCE <h5>
+    <h5> Head Of the Department, Dept. of CSE, RVCE <h5>
   <!--
     <a href="PROFILE URL">CHETHAN S</a>
     ·
