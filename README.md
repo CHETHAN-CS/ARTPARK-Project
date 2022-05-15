@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://www.artpark.in/">
-    <img src="images/artparklogo.png" alt="Logo" width="200" height="90">
+    <img src="images/artparklogo.png" alt="Logo" width="400" height="100">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
