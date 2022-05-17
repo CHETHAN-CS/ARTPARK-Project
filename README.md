@@ -103,10 +103,10 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
+* [Python](https://www.python.org/)
+* [OpenCV](https://opencv.org/)
+* [MobileNet](https://github.com/chuanqi305/MobileNet-SSD/)
+* [HaarCascade](https://github.com/CHETHAN-CS/vehicle_detection_using_haarcascade/)
 * [Svelte](https://svelte.dev/)
 * [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
