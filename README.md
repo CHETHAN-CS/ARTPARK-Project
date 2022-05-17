@@ -60,6 +60,9 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
+      <ul>
+        <li><a href="#hardware-req">Hardware Requirements</a></li>
+      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -107,14 +110,21 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [OpenCV](https://opencv.org/)
 * [MobileNet](https://github.com/chuanqi305/MobileNet-SSD/)
 * [Haar-Cascade](https://github.com/CHETHAN-CS/vehicle_detection_using_haarcascade/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Hardware Requirements
 
+The hardware requirements in this project are as follows
+
+* [IP Camera](https://en.wikipedia.org/wiki/IP_camera/)
+* [NVIDIA Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit/)
+* [Display Monitor](https://en.wikipedia.org/wiki/Computer_monitor/)
+* [Keyboard](https://en.wikipedia.org/wiki/Computer_keyboard)
+* [Mouse](https://en.wikipedia.org/wiki/Computer_mouse/)
+* [Power Adapter](https://forums.developer.nvidia.com/t/power-supply-considerations-for-jetson-nano-developer-kit/71637/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
