@@ -106,7 +106,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Python](https://www.python.org/)
 * [OpenCV](https://opencv.org/)
 * [MobileNet](https://github.com/chuanqi305/MobileNet-SSD/)
-* [HaarCascade](https://github.com/CHETHAN-CS/vehicle_detection_using_haarcascade/)
+* [Haar-Cascade](https://github.com/CHETHAN-CS/vehicle_detection_using_haarcascade/)
 * [Svelte](https://svelte.dev/)
 * [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
