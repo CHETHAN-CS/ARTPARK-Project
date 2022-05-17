@@ -61,7 +61,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
       <ul>
-        <li><a href="#hardware-req">Hardware Requirements</a></li>
+        <li><a href="#hardware-requirements">Hardware Requirements</a></li>
       </ul>
     </li>
     <li>
