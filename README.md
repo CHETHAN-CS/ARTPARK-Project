@@ -67,6 +67,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
+        <li><a href="#Jetson-Nano-Setup">Jetson Nano Setup</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -97,7 +98,6 @@ To make the project standalone, we have used NVIDIA jetson nano. We have deploye
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -125,8 +125,13 @@ The hardware requirements in this project are as follows
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Follow the guidelines/steps given Below to Install and RUN the project on NVIDIA Jetson Nano.
+
+### Jetson-Nano-Setup
+In order to RUN the project in Jetson nano you need to do initial Setup for Jetson nano. Follow the instructions given in the NVIDIA Jeson nano Installation manual.
+Follow this Link to access the manual and proceed with the setup.
+      https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
+
 
 ### Prerequisites
 
