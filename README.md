@@ -85,18 +85,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+To ensure safety measures on roads of India, the identification of traffic rule violators is highly desirable but challenging job due to numerous difficulties such as occlusion, illumination, etc. In this project we propose an end-to-end framework for detection of violations and notifying violators. The creation of automatic detection systems for traffic rules violations on signal jumping, speed limit cross, riding two-wheeler without helmet is necessary to improve and manage road safety in the country.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+To perform such autonomous system, we propose machine learning models which are trained by custom datasets obtained over the internet, wherein the images are caught by CCTV cameras. Every machine learning model that is proposed is trained to detect a particular violation. To train the models google colab platform was utilized for training and evaluation purposes.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+The results obtained from the system proposed is that it’s able to detect the vehicles successfully and if any violations such as not wearing helmet, red light signal jumping, and one way violation is being detected by different models successfully. Lot of scope is present in the field of traffic monitoring and deep learning integration. Models can be trained with more data to increase confidentiality score and accuracy score. Developing an autonomous system which could detect violation and notify the commuters and the traffic policing department in real time is the direction for future work. 
 
-Use the `BLANK_README.md` to get started.
+To make the project standalone, we have used NVIDIA jetson nano. We have deployed the software into the jetson nano and connected it with IP camera. Hence, we have developed a complete product.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
