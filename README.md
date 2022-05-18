@@ -129,8 +129,11 @@ Follow the guidelines/steps given Below to Install and RUN the project on NVIDIA
 
 ### Jetson-Nano-Setup
 In order to RUN the project in Jetson nano you need to do initial Setup for Jetson nano. Follow the instructions given in the NVIDIA Jeson nano Installation manual.
-Follow this Link to access the manual and proceed with the setup.
-      https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
+Follow this Link to access the manual and proceed with the setup.(Choose appropriate w.r.t the RAM size of your jetson Nano).
+
+For 2GB Jetson Nano: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit
+
+For 4GB Jetson Nano: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
 
 ### Prerequisites
