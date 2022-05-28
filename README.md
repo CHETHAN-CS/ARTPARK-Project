@@ -195,8 +195,11 @@ NEED TO UPDATE
 ## Contact
 
 CHETHAN S  - chethans.cs18@rvce.edu.in
+      
 PRAJWAL K -prajwalk.cs18@rvce,edu.in
+      
 SHIVARAJ BK  - shivarajbk.cs18@rvce.edu.in
+      
 NEHAL CHAKRAVARTY  - nehalchakravarty.cs18@rvce.edu.in
 
 Project Link: [TVD-Gdrive](https://drive.google.com/drive/folders/1DMh4dKm2AypiDYFfHEzXlm_ja28lmOjg?usp=sharing)
