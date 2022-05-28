@@ -138,14 +138,15 @@ For 4GB Jetson Nano: https://developer.nvidia.com/embedded/learn/get-started-jet
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+The commands to install all the prerequisites are kept in a single script file(requirements.sh). So, Need to install them seperately. Just run the script file by opening the terminal.
+      
+* Commands to run the script file
   ```sh
-  npm install npm@latest -g
+  chmod a+x requirements.sh
   ```
 
   ```sh
-  npm install npm@latest -g
+  ./requirements.sh
   ```
 
 ### Installation
