@@ -68,10 +68,11 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#Jetson-Nano-Setup">Jetson Nano Setup</a></li>
+        <li><a href="#Download the Source-Code">Download the Source-Code</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -155,7 +156,7 @@ The commands to install all the prerequisites are kept in a single script file(r
   ./requirements.sh
   ```
 
-### Installation
+## Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
