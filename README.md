@@ -143,6 +143,10 @@ Then Unzip the code and keep it in any directory.
 ### Prerequisites
 
 The commands to install all the prerequisites are kept in a single script file(requirements.sh). So, Need to install them seperately. Just run the script file by opening the terminal.
+*First GOTO your project directory using 'cd' command.
+  Example: ```sh
+           cd "Path to project directory"
+             ```
       
 * Commands to run the script file
   ```sh
@@ -188,7 +192,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-CHETHAN S  - chethans.cs18@rvce.edu.in.com
+CHETHAN S  - chethans.cs18@rvce.edu.in
+PRAJWAL K -prajwalk.cs18@rvce,edu.in
+SHIVARAJ BK  - shivarajbk.cs18@rvce.edu.in
+NEHAL CHAKRAVARTY  - nehalchakravarty.cs18@rvce.edu.in
 
 Project Link: [TVD-Gdrive](https://drive.google.com/drive/folders/1DMh4dKm2AypiDYFfHEzXlm_ja28lmOjg?usp=sharing)
 
