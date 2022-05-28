@@ -68,7 +68,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#Jetson-Nano-Setup">Jetson Nano Setup</a></li>
-        <li><a href="##download-the-source-code">Download the Source-Code</a></li>
+        <li><a href="#download-the-source-code">Download the Source-Code</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
