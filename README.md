@@ -72,7 +72,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#installation">Installation</a></li>
+    <li><a href="#run">RUN</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -143,7 +143,8 @@ Then Unzip the code and keep it in any directory.
 ### Prerequisites
 
 The commands to install all the prerequisites are kept in a single script file(requirements.sh). So, Need to install them seperately. Just run the script file by opening the terminal.
-*First GOTO your project directory using 'cd' command.
+ 
+* First GOTO your project directory using 'cd' command.
   Example: ```sh
            cd "Path to project directory"
              ```
@@ -157,24 +158,27 @@ The commands to install all the prerequisites are kept in a single script file(r
   ./requirements.sh
   ```
 
-## Installation
+## RUN
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+To run the different usecases (Line cross detection/Parking Detection/Wrong way detection/Helmet detection) Run the below commands:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Go to project directory (If you are not in)
+2. To RUN Line cross detection
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   python "command to run code -Need to update"
    ```
-3. Install NPM packages
+3. To RUN Parking Detection
    ```sh
-   npm install
+   python "command to run code -Need to update"
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. To RUN Wrong way detection
+   ```sh
+   python "command to run code -Need to update"
    ```
-
+5. To RUN Helmet Detection code
+   ```sh
+   python "command to run code -Need to update"
+   ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -182,9 +186,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+NEED TO UPDATE
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
