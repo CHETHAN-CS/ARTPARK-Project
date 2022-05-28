@@ -26,7 +26,7 @@
   <p align="center">
     The program invites highly motivated and talented faculty members, along with their under-graduate and post-graduate students, to apply for research projects in the areas of Artificial Intelligence, Robotics and Autonomous Systems
     <br />
-    <a href="https://www.artpark.in/innoProgramme"><strong>Know More About the Program »</strong></a>
+    <a href="https://www.artpark.in/innoProgramme" target="_blank"><strong>Know More About the Program »</strong></a>
     <br />
     <h3 align="center">Project Title: Traffic Voilaton Detection using CCTV cameras</h3>
     <br />
