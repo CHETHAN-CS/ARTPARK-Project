@@ -137,7 +137,10 @@ For managing environments: https://docs.conda.io/projects/conda/en/latest/user-g
 ### Download the Source-Code
 Once you are ready with the jetson nano setup switch it ON and download the source code of the project from below link.
 
-Follow this link for source code: https://drive.google.com/drive/folders/1DMh4dKm2AypiDYFfHEzXlm_ja28lmOjg?usp=sharing
+Follow this link for NEW source code: https://drive.google.com/drive/folders/1t93IqW2vTUnceWfNJNuBNCl5zqJf3MPc?usp=sharing
+
+
+Follow this link for source code (OLD): https://drive.google.com/drive/folders/1DMh4dKm2AypiDYFfHEzXlm_ja28lmOjg?usp=sharing
       
 Then Unzip the code and keep it in any directory.
 
@@ -190,6 +193,8 @@ The commands to install all the prerequisites are kept in a single script file(r
   ```sh
   ./requirements.sh
   ```
+  
+  * If you get any errors while executing the requirements file Please execute the commands in Setup.txt file (ALL)
 
 ## RUN
 
@@ -197,8 +202,13 @@ TO run the complete project in Normal PC Follow these steps in anaconda prompt:
 
 1. Go to project directory (If you are not in)
 2. RUN project
+   If you are using OLD source code
    ```sh
    python main.py
+   ```
+   If you are using NEW source code
+   ```sh
+   python main2.py
    ```
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
