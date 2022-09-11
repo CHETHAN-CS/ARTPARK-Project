@@ -208,19 +208,23 @@ To run the different usecases (Line cross detection/Parking Detection/Wrong way 
 1. Go to project directory (If you are not in)
 2. To RUN Line cross detection
    ```sh
-   python "command to run code -Need to update"
+   cd LCD
+   ```
+      
+   ```sh
+   python vehicle_dtn.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
    ```
 3. To RUN Parking Detection
    ```sh
-   python "command to run code -Need to update"
+   python latest_np.py -y yolo --input inputvideo2.mp4 --output output --skip-frames 5
    ```
 4. To RUN Wrong way detection
    ```sh
-   python "command to run code -Need to update"
+   python wwd.py
    ```
 5. To RUN Helmet Detection code
    ```sh
-   python "command to run code -Need to update"
+   python helmet_detection.py
    ```
 
 To run the different usecases (Line cross detection/Parking Detection/Wrong way detection/Helmet detection) Run the below commands in terminal (FOR JETSON NANO Without PTZ):
