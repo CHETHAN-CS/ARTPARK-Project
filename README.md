@@ -133,6 +133,14 @@ For installantion guide: https://docs.anaconda.com/anaconda/install/windows/
 
 For managing environments: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands
 
+
+### Download the Source-Code
+Once you are ready with the jetson nano setup switch it ON and download the source code of the project from below link.
+
+Follow this link for source code: https://drive.google.com/drive/folders/1DMh4dKm2AypiDYFfHEzXlm_ja28lmOjg?usp=sharing
+      
+Then Unzip the code and keep it in any directory.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Follow the guidelines/steps given Below to Install and RUN the project on NVIDIA Jetson Nano.
@@ -145,6 +153,17 @@ For 2GB Jetson Nano: https://developer.nvidia.com/embedded/learn/get-started-jet
 
 For 4GB Jetson Nano: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
+
+### Download the Source-Code
+Once you are ready with the jetson nano setup switch it ON and download the source code of the project from below link.
+      
+
+Follow this link for source code: https://drive.google.com/drive/folders/18ASPz97mw6H6z93N3t7nnahJdOdkLm3S?usp=sharing 
+
+Follow this link for source code supporting PTZ Camera: https://github.com/CHETHAN-CS/Nvidia-Jetson-Nano
+      
+Then Unzip the code and keep it in any directory.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
       
 Videos related to the working of the project and setup can be found here:
@@ -152,13 +171,6 @@ https://drive.google.com/file/d/1Urv6jKcnU2Nz57FlCAcRWJv0Iel-SIDg/view?usp=shari
       
 https://drive.google.com/file/d/13bspvGoRnYlBKov61yyH3HhXDmMIfh79/view?usp=sharing
 
-
-### Download the Source-Code
-Once you are ready with the jetson nano setup switch it ON and download the source code of the project from below link.
-
-Follow this link for source code: https://drive.google.com/drive/folders/1DMh4dKm2AypiDYFfHEzXlm_ja28lmOjg?usp=sharing
-      
-Then Unzip the code and keep it in any directory.
 
 
 ### Prerequisites
@@ -191,7 +203,7 @@ TO run the complete project in Normal PC Follow these steps in anaconda prompt:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
       
-To run the different usecases (Line cross detection/Parking Detection/Wrong way detection/Helmet detection) Run the below commands in terminal (FOR JETSON NANO):
+To run the different usecases (Line cross detection/Parking Detection/Wrong way detection/Helmet detection) Run the below commands in terminal (FOR JETSON NANO Without PTZ):
 
 1. Go to project directory (If you are not in)
 2. To RUN Line cross detection
@@ -210,6 +222,11 @@ To run the different usecases (Line cross detection/Parking Detection/Wrong way 
    ```sh
    python "command to run code -Need to update"
    ```
+
+To run the different usecases (Line cross detection/Parking Detection/Wrong way detection/Helmet detection) Run the below commands in terminal (FOR JETSON NANO Without PTZ):
+Follow Instructions on the repo: https://github.com/CHETHAN-CS/Nvidia-Jetson-Nano
+      
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
