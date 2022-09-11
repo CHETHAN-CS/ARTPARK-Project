@@ -215,14 +215,26 @@ To run the different usecases (Line cross detection/Parking Detection/Wrong way 
    python vehicle_dtn.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
    ```
 3. To RUN Parking Detection
+     ```sh
+   cd NPN
+   ```
+      
    ```sh
    python latest_np.py -y yolo --input inputvideo2.mp4 --output output --skip-frames 5
    ```
 4. To RUN Wrong way detection
+     ```sh
+   cd WWD
+   ```
+      
    ```sh
    python wwd.py
    ```
 5. To RUN Helmet Detection code
+     ```sh
+   cd helmet
+   ```
+      
    ```sh
    python helmet_detection.py
    ```
