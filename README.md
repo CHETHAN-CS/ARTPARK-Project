@@ -145,6 +145,13 @@ For 2GB Jetson Nano: https://developer.nvidia.com/embedded/learn/get-started-jet
 
 For 4GB Jetson Nano: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      
+Videos related to the working of the project and setup can be found here:
+https://drive.google.com/file/d/1Urv6jKcnU2Nz57FlCAcRWJv0Iel-SIDg/view?usp=sharing
+https://drive.google.com/file/d/13bspvGoRnYlBKov61yyH3HhXDmMIfh79/view?usp=sharing
+
+
 ### Download the Source-Code
 Once you are ready with the jetson nano setup switch it ON and download the source code of the project from below link.
 
@@ -152,7 +159,6 @@ Follow this link for source code: https://drive.google.com/drive/folders/1DMh4dK
       
 Then Unzip the code and keep it in any directory.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Prerequisites
 
@@ -174,7 +180,7 @@ The commands to install all the prerequisites are kept in a single script file(r
 
 ## RUN
 
-TO run the complete project in Normal PC Follow these steps in anaconda promt:
+TO run the complete project in Normal PC Follow these steps in anaconda prompt:
 
 1. Go to project directory (If you are not in)
 2. RUN project
@@ -209,8 +215,15 @@ To run the different usecases (Line cross detection/Parking Detection/Wrong way 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+### In Normal PC
+Once you RUN the command to run the project in Normal PC project start to execute in the default browser and hence open the default browser and enter the IP address shown on the anaconda prompt. Then you can observe the Traffic violation detection. The frames with violations get saved in the saperate folder named "Violation images in the project directory. If you want to RUN the project on LIVE feed through Camera please change source of video capture in the project source code.
+      
+### In jetson nano
+In jetson nano due to memory conatrints we cant RUN all four cases at once. You can run and observe the violation detection individualy. If you want to RUN the project on LIVE feed through Camera please change source of video capture in the project source code.
 
-NEED TO UPDATE
+Videos related to the demonstration of the project can be found here:
+https://drive.google.com/drive/folders/1Ek12uTMp0P-lmfacd1AGk0Tp7ErEPfOE?usp=sharing
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
