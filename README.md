@@ -123,6 +123,17 @@ The hardware requirements in this project are as follows
 <!-- GETTING STARTED -->
 ## Getting Started
 
+Follow the guidelines/steps given Below to Install and RUN the project on Normal PC using ANACONDA.
+
+### Install Anaconda
+Install Anaconda and create an environment with python 3.6. Follow these guidlines for more info.
+
+For installantion guide: https://docs.anaconda.com/anaconda/install/windows/
+
+For managing environments: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Follow the guidelines/steps given Below to Install and RUN the project on NVIDIA Jetson Nano.
 
 ### Jetson-Nano-Setup
