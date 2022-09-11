@@ -101,6 +101,7 @@ To make the project standalone, we have used NVIDIA jetson nano. We have deploye
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [Python](https://www.python.org/)
+* [Anaconda](https://www.anaconda.com/products/distribution)
 * [OpenCV](https://opencv.org/)
 * [MobileNet](https://github.com/chuanqi305/MobileNet-SSD/)
 * [Haar-Cascade](https://github.com/CHETHAN-CS/vehicle_detection_using_haarcascade/)
@@ -151,6 +152,8 @@ Follow this link for source code: https://drive.google.com/drive/folders/1DMh4dK
       
 Then Unzip the code and keep it in any directory.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Prerequisites
 
 The commands to install all the prerequisites are kept in a single script file(requirements.sh). So, Need to install them seperately. Just run the script file by opening the terminal.
@@ -171,7 +174,17 @@ The commands to install all the prerequisites are kept in a single script file(r
 
 ## RUN
 
-To run the different usecases (Line cross detection/Parking Detection/Wrong way detection/Helmet detection) Run the below commands:
+TO run the complete project in Normal PC Follow these steps in anaconda promt:
+
+1. Go to project directory (If you are not in)
+2. RUN project
+   ```sh
+   python main.py
+   ```
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      
+To run the different usecases (Line cross detection/Parking Detection/Wrong way detection/Helmet detection) Run the below commands in terminal (FOR JETSON NANO):
 
 1. Go to project directory (If you are not in)
 2. To RUN Line cross detection
@@ -222,7 +235,20 @@ Project Link: [TVD-Gdrive](https://drive.google.com/drive/folders/1DMh4dKm2AypiD
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Need to Update....
+Any achievement, be it scholastic or otherwise does not depend solely on the individual efforts but on the guidance, encouragement and cooperation of intellectuals, elders and friends. A number of personalities, in their own capacities have helped me in carrying out this project work. We would like to take this opportunity to thank them all.
+      
+We heartfully thank the whole ARTPARK team, IISC Bangalore, for giving us the opportunity and for supporting us throughout the project development.
+      
+We deeply express our sincere gratitude to our guide Dr. RAMAKANTH KUMAR P, HOD, Department of CSE, RVCE, Bengaluru his able guidance, regular source of encouragement and assistance throughout this project.
+      
+We would like to thank Dr. Hemavathy R, Associate professor, Computer Science & Engineering, R.V.C.E, Bengaluru, for his valuable suggestions and expert advice.
+
+First and foremost, we would like to thank Dr. Subramanya. K. N, Principal, R.V.C.E, Bengaluru, for his moral support towards completing our project work.
+      
+We thank our Parents, and all the faculty members of the Department of Computer Science & Engineering for their constant support and encouragement.
+      
+Last, but not the least, I would like to thank our peers and friends who provided me with valuable suggestions to improve our project.
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
