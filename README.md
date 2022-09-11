@@ -149,6 +149,7 @@ For 4GB Jetson Nano: https://developer.nvidia.com/embedded/learn/get-started-jet
       
 Videos related to the working of the project and setup can be found here:
 https://drive.google.com/file/d/1Urv6jKcnU2Nz57FlCAcRWJv0Iel-SIDg/view?usp=sharing
+      
 https://drive.google.com/file/d/13bspvGoRnYlBKov61yyH3HhXDmMIfh79/view?usp=sharing
 
 
